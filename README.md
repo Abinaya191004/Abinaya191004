@@ -1,12 +1,3 @@
-# Hi 👋, I'm Abinaya M
-
-### B.Tech Information Technology | 2026 Graduate | Frontend Developer
-
-- 💻 Interested in Frontend & Full Stack Development
-- 🌱 Currently learning JavaScript, React and DSA
-- 🚀 Building web applications and AI-powered projects
-- 📍 Based in Chennai, India
----
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Abinaya%20Muthukumar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech`%2026%20%7C%20Aspiring%20Developer%20%7C%20Chennai,%20TN&descAlignY=58&descSize=18"/>
 
@@ -27,14 +18,23 @@ src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&
 
 ## ■ About Me
 ```yaml
-Name: Abinaya M Education: B.Tech-IT 
-focus: - YOUR SKILL - YOUR SKILL - YOUR SKILL
-currently_learning: - YOUR SKILL - YOUR SKILL - YOUR SKILL
-mindset: Learn → Build → Share → Improve
+Name: Abinaya M
+Education: B.Tech - Information Technology
+Focus:
+  - Frontend Development
+  - Full Stack Development
+  - Web Development
+Currently_learning:
+  - JavaScript
+  - React.js
+  - Data Structures & Algorithms
+Mindset: Learn → Build → Share → Improve
 ```
+<p> I’m a B.Tech Information Technology graduate passionate about building responsive and user-friendly web applications.
+I enjoy working with JavaScript, React.js, and modern web technologies to turn ideas into practical projects.
+Currently, I’m improving my full-stack development and problem-solving skills while exploring new technologies.</p>
 
-Write 2–4 lines about yourself here.
----
+
 ## ■ Tech Stack 
 ### Programming Languages
 <p> <img src="https://skillicons.dev/icons?i=python,java"/> </p>
@@ -43,69 +43,67 @@ Write 2–4 lines about yourself here.
 <p> <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap"/> </p>
 
 ### Backend & Database
-<p> <img src="https://skillicons.dev/icons?i=flask,nodejs,mysql,mongodb"/> </p>
+<p> <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb"/> </p>
 
 ### Tools
 <p> <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase"/> </p>
----
 
 ## ■ My Learning Journey
 ```text 
-YOUR CURRENT FIELD
+B.Tech Information Technology
        ↓
-  YOUR SKILL
+Frontend Development
        ↓
-  YOUR SKILL
+React & JavaScript
        ↓
-  YOUR SKILL
+Full Stack Development
        ↓
-   YOUR GOAL 
+Become a Software Developer
 ```
 ### Currently Exploring
-- YOUR TOPIC - YOUR TOPIC - YOUR TOPIC - YOUR TOPIC
----
-## ■ Featured Projects
-### ■ Project 01 — YOUR PROJECT NAME
-Write a short description of your project here.
-**Tech Stack:**
-`Python` `React` `Flask` `MySQL`
----
-### ■ Project 02 — YOUR PROJECT NAME
-Write a short description of your project here.
-**Tech Stack:**
+- Web Technologies - GitHub Copilot - Large Language Models (LLMs) - AI-assisted Development
 
-`HTML` `CSS` `JavaScript`
----
-### ■ Project 03 — YOUR PROJECT NAME
-Write a short description of your project here.
+## ■ Featured Projects
+###  🤖 Project 01 — [WikiAI](https://wikiai-f51a1.web.app/)
+
+An AI-powered knowledge search web application inspired by Wikipedia, designed to provide users with an interactive way to explore information.
+
 **Tech Stack:**
-`Flutter` `Dart` `Firebase`
----
+`React.js` `JavaScript` `Firebase` `AI`
+
+### 📄 Project 02 — [AI Resume Analyzer](https://ai-resume-analy.netlify.app/)
+
+A web application that analyzes resumes against job descriptions and provides keyword-based feedback to help improve resume relevance.
+
+**Tech Stack:**
+`HTML` `CSS` `JavaScript` `AI`
+
+### 🛒 Project 03 — [InsightCart AI](https://github.com/Abinaya191004/InsightCart-AI)
+
+A responsive e-commerce web application focused on creating a smooth and user-friendly online shopping experience.
+
+**Tech Stack:**
+`React.js` `JavaScript` `HTML` `CSS` `Ollama`
+
 
 ## ■ My Learning Journey
 ``` text 
-Education
-   ↓
-Programming
-   ↓
-Development
-   ↓
-Advanced Skills
-   ↓
-Real Projects
-   ↓
-Professional Growth 
+B.Tech in Information Technology
+          ↓
+    Web Development
+          ↓
+ JavaScript & React.js
+          ↓
+ Full Stack Development
+          ↓
+ AI & LLM Exploration
+          ↓
+  Real-World Projects
+          ↓
+ Professional Growth
 ```
 > Learn → Build → Share → Improve
----
-## ■ Current Focus
-``` yaml
-learning: - YOUR SKILL - YOUR SKILL - YOUR SKILL
-building: - YOUR PROJECT - YOUR PROJECT
-exploring: - YOUR TOPIC - YOUR TOPIC
-goal: - YOUR GOAL - YOUR GOAL
-```
----
+
 ## ■ GitHub
 <div align="center">
 <a href="https://github.com/Abinaya191004"> <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
@@ -115,7 +113,7 @@ src="https://img.shields.io/badge/Always-Building-A855F7?style=for-the-badge"/> 
 src="https://img.shields.io/badge/Always-Growing-6D28D9?style=for-the-badge"/>
 </div>
 
----
+
 
 ## ■ Connect With Me
 <div align="center">
