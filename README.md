@@ -26,7 +26,7 @@ Focus:
   - Web Development
 Currently_learning:
   - React.js Advanced Concepts
-  - Backedn technologies
+  - Backend technologies
   - Data Structures & Algorithms
 Mindset: Learn → Build → Share → Improve
 ```
