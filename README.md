@@ -25,8 +25,8 @@ Focus:
   - Full Stack Development
   - Web Development
 Currently_learning:
-  - JavaScript
-  - React.js
+  - React.js Advanced Concepts
+  - Backedn technologies
   - Data Structures & Algorithms
 Mindset: Learn → Build → Share → Improve
 ```
